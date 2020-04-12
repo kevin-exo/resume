@@ -54,12 +54,12 @@ Skills {#skills}
 <!-- proEMG | LabChart -->
   
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+<!-- Disclaimer {#disclaimer} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-<!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). -->
-  
-Last updated on `r Sys.Date()`.
+<!-- <!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). --> -->
+
+<!-- Last updated on `r Sys.Date()`. -->
 
 
 
@@ -213,6 +213,45 @@ MAY - SEP 18
 - “Neuromechanical adaptation induced by elastic surface jumping”
 
 
+
+References {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Florian Paternoster, PhD
+
+N/A
+
+Munich, GERMANY
+
+N/A
+
+- Assist. Researcher -  Biomechanics Department, TUM  
+<i class="fa fa-envelope"></i> florian.paternoster@tum.de
+
+### Damien Bachasson, PhD, PT
+
+N/A
+
+Paris, FRANCE
+
+N/A
+
+- Research Scientist - Neuromuscular Physiology Laboratory, INSTITUT DE MYOLOGIE  
+<i class="fa fa-envelope"></i> d.bachasson@institut-myologie.org
+
+### Prof. Martin Daumer, PhD
+
+N/A
+
+Munich, GERMANY
+
+N/A
+
+- Honorary Professor - TUM  
+- CEO - Trium Analysis Online GmbH   
+- Director/Ex. Board - Sylvia Lawry Centre for Multiple Sclerosis Research, The Human Motion Institute  
+<i class="fa fa-envelope"></i> daumer@slcmsr.org
+
 <!-- Selected Publications and Posters {data-icon=file} -->
 <!-- -------------------------------------------------------------------------------- -->
 
@@ -235,3 +274,10 @@ MAY - SEP 18
 <!-- 2016  -->
 
 <!-- Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.  -->
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). -->
+  
+Last updated on `r Sys.Date()`.
