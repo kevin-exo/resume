@@ -20,26 +20,30 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> k.gramage@tum.de
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/kevingm](https://linkedin.com/in/kevingm/)
 <!-- - <i class="fa fa-github"></i> [github.com/kevin-exo](https://github.com/kevin-exo) -->
-- <i class="fa fa-phone"></i> +34 670287311
+- <i class="fa fa-phone"></i> +49 177 4704083
+<!-- +34 670287311 |  -->
 <!-- - For more information, please contact me via email. -->
-  
-  
+
   
 Skills {#skills}
 --------------------------------------------------------------------------------
-<!-- - Experienced in statistical analysis, statistical learning models, and optimization methods. -->
+
 **Languages**  
 
-*Native:*  
-- Spanish  
-
-*Fluent:*  
+*Native / Fluent:*  
+- Spanish, Catalan  
 - English (TOEFL 105)  
-- Catalan
-
+  
 *Towards fluency:*  
-- German  
-- French  
+- German, French  
+  
+  
+  
+  
+**Data Analysis & Programming**  
+
+<i class="fab fa-r-project"></i> R | RStudio  
+<i class="fab fa-github"></i> GitHub [Check this CV's code!](https://github.com/kevin-exo/resume)
 
 <!-- **Programming:**   -->
 <!-- R | GitHub   -->
@@ -90,7 +94,7 @@ Munich, Germany
 
 Currently (Exp. SEP '20)
 
-<!-- Focus in Biomechanics & Exercise biology.   -->
+Focus in Biomechanics & Exercise biology.
 - Thesis: "The use of lower limb exoskeleton in patients with myopathies"
 
 ### Bachelor of Sport Sciences
@@ -132,19 +136,20 @@ Munich, Germany
 - Synchronize actibelt® and video data using in-house annotation software.
 - Assist on data collection during the trials performed with the actibelt®.
 
-<!-- Professional Experience {data-icon=suitcase} -->
-<!-- -------------------------------------------------------------------------------- -->
 
-Relevant Course Projects {.page-break-before data-icon=chalkboard-teacher}
+<!--.page-break-before-->
+
+Relevant Course Projects {data-icon=chalkboard-teacher} 
 --------------------------------------------------------------------------------
 
 ### Eccentric Maximum Voluntary Contractions
-<!-- : Familiarization & Reliability -->
+
 Muscle function and human movement | Individual project
 
 N/A
 
-OCT 18 - FEB 19
+N/A
+<!-- OCT 18 - FEB 19 -->
 
 
 - Intra-session and Inter-day comparision of EMVC
@@ -155,26 +160,30 @@ OCT 18 - FEB 19
   
 <!-- ::: -->
 
-::: aside
+<!-- ::: aside -->
 
-**Data Analysis & Programming**  
+<!-- **Data Analysis & Programming**   -->
 
-<i class="fab fa-r-project"></i> R | RStudio  
-<i class="fab fa-github"></i> GitHub (check this CV repo at )  
+<!-- <i class="fab fa-r-project"></i> R | RStudio   -->
+<!-- <i class="fab fa-github"></i> GitHub [Check this CV's code!](https://github.com/kevin-exo/resume)   -->
 
-:::
+<!-- :::   -->
 
-### Personalised approach to exercise, diet & medical treatment
-<!-- Eccentric Maximum Voluntary Contractions: Familiarization & Reliability -->
+\pagebreak
+
+### Personalised approach to exercise, diet & medical treatment 
+
 Exercise biology specialization | Group project
 
 N/A
 
-OCT 18 - FEB 19
+N/A
+<!-- OCT 18 - FEB 19 -->
 
 - Pre-post analysis and comparison of an 8-week exercise intervention.
 - Personalized approach to exercise, diet and medical treatment.
-
+- *Gene expr., Body composition, Lactate, Wingate, VO2max, Ergometer*
+ 
 ::: aside
 
 **Human Movement Tools**  
@@ -205,14 +214,51 @@ Group projects
 
 N/A 
 
-MAY - SEP 18
+N/A
+<!-- MAY - SEP 18 -->
 
 - “Anthropometric analysis & somatotype classification of a subject”
 - “2D kinematic analysis of lower extremity joints during the run”
 - “Effects of Post-Activation Potentiation (PAP) & fatigue on CMJ”
 - “Neuromechanical adaptation induced by elastic surface jumping”
 
+Sport Experience {data-icon=football-ball}
+--------------------------------------------------------------------------------
 
+### Student Athlete
+
+Pumas UNAM  
+
+Mexico City, Mexico  
+
+2013 - 2015  
+
+- Played as RB & WR at the 1st Div. & won 2 Natl. Championships.
+
+
+### S&C Intern -> Coordinator of Youth Teams
+
+Barbera Rookies  
+
+Barcelona area, Spain  
+
+Dec 2014 – Jun 2016  
+
+As intern:  
+- Off. Coordinator and Strength & Conditioning coach of 1st Team. Conduct training sessions, practice design, game day play-caller  
+- Head Coach of U17 Team. Fundamentals training, game day planing, meeting with parents, players recruiting  
+As Coordinator of Youth Teams:  
+- Responsible for coordination of 3 Sections, 6 Teams, 13 Coaches y +60 Players.
+
+*Got promoted after doing an Internship as a Coach*
+
+<!-- Alfaz del Pi (Alicante) - SPAIN -->
+<!-- Joined the sport department of my hometown after finishing my bachelor’s degree -->
+<!-- to get experience at the management level of a public institution that hosts many -->
+<!-- events and has a year-round sport offer for cold-weather based professional -->
+<!-- teams to conduct pre-season trainings and competition preparation. -->
+<!-- - Coordinate and supervise the organization of local events: races, school championships, regional leagues, etc. -->
+<!-- - Assist international teams during their stay and schedule the facilities allocation. -->
 
 References {data-icon=file}
 --------------------------------------------------------------------------------
@@ -252,28 +298,6 @@ N/A
 - Director/Ex. Board - Sylvia Lawry Centre for Multiple Sclerosis Research, The Human Motion Institute  
 <i class="fa fa-envelope"></i> daumer@slcmsr.org
 
-<!-- Selected Publications and Posters {data-icon=file} -->
-<!-- -------------------------------------------------------------------------------- -->
-
-<!-- ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing. -->
-
-<!-- Poster for 2013 International Conference of Genomics -->
-
-<!-- Qingdao, China -->
-
-<!-- 2014 -->
-
-<!-- **Yu L**, Chen B, Zhang Z. -->
-
-<!-- ### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling. -->
-
-<!-- J Cell Sci. 2016 May 15;129(10):2075-84. -->
-
-<!-- N/A -->
-
-<!-- 2016  -->
-
-<!-- Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.  -->
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
