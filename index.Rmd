@@ -74,11 +74,11 @@ Kevin Gramage {#title}
 --------------------------------------------------------------------------------
 
   
-### Searching for a position in Biomechanics  
+<!-- ### Searching for a position in Biomechanics   -->
 <!-- & Human Movement Analysis -->
 <!-- ### Currently searching for a PhD student position -->
 
-At the moment: MSc. Thesis at Institut de Myologie: “The use of lower limb exoskeleton in patients with myopathies”
+<!-- At the moment: MSc. Thesis at Institut de Myologie: “The use of lower limb exoskeleton in patients with myopathies” -->
 
 <!-- Worked for over 7 years as a sport Coach and Educator but also collected experience in Sales and Event Management. -->
 <!-- All while moving towards a career in Exercise Sciences research. -->
@@ -153,10 +153,10 @@ N/A
 <!-- OCT 18 - FEB 19 -->
 
 
-- Intra-session and Inter-day comparision of EMVC
+- Intra-session and Inter-day comparision of EMVC.
 
 <!-- ::: concise -->
-- Use of Isomed® dynamometer, Myon320 mobile® EMG & prophysics proEMG®
+- Use of Isomed® dynamometer, Myon320 mobile® EMG & proEMG®
 - [Poster DOI: 10.13140/RG.2.2.11515.46887](https://www.doi.org/10.13140/RG.2.2.11515.46887)  
   
 <!-- ::: -->
@@ -246,8 +246,8 @@ Barcelona area, Spain
 
 2014 - 2016
   
-- Off. Coordinator and Strength & Conditioning coach of 1st Team. Conduct training sessions, practice design, game day play-caller  
-- Head Coach of U17 Team. Fundamentals training, game day planing, meeting with parents, players recruiting  
+- Off. Coordinator and Strength & Conditioning coach of 1st Team. Conduct training sessions, practice design, game day play-caller.  
+- Head Coach of U17 Team. Fundamentals training, game day planing, meeting with parents, players recruiting.  
 - Responsible for coordination of 3 Sections, 6 Teams, 13 Coaches y +60 Players.
 
 <!-- *Got promoted after doing an Internship as a Coach* -->
@@ -264,21 +264,22 @@ Mexico City, Mexico
 - Played as RB & WR at the 1st Div. & won 2 Natl. Championships.
 
 ::: aside
-**REFERENCES**
+<font size="3">**REFERENCES**</font>
 
 **Florian Paternoster, PhD**  
-Assist. Researcher at Biomechanics Department, TUM, Munich, Germany  
-<i class="fa fa-envelope"></i> florian.paternoster@tum.de  
+*Assistant Researcher* at Biomechanics Department,  
+TUM Faculty of Sport Science  
+<font size="1"><i class="fa fa-envelope"></i> florian.paternoster@tum.de</font>  
 
 **Damien Bachasson, PhD, PT**  
-Research Scientist at Neuromusc. Physiology Lab, Institut de Myologie, Paris, France  
-<i class="fa fa-envelope"></i> d.bachasson@institut-myologie.org
+*Research Scientist* at  
+Neuromuscular Physiology Lab, Institut de Myologie  
+<font size="1"><i class="fa fa-envelope"></i> d.bachasson@institut-myologie.org</font>  
 
 **Prof. Martin Daumer, PhD**  
-Ceo at Trium Analysis Online 
-<i class="fa fa-envelope"></i> daumer@slcmsr.org  
-Hon. Professor at Faculty of Electrical & Computer Eng., TUM
-
+*Hon. Professor* at TUM Faculty of Electrical & Computer Engineering  
+*CEO* at Trium Analysis Online  
+<font size="1"><i class="fa fa-envelope"></i> daumer@slcmsr.org</font>  
 :::
 
 ### Physical Education Teacher
@@ -289,8 +290,8 @@ Madrid, Spain
 
 2011 - 2014
 
-- Extracurricular educator for several sport activities (Football, Basketball, etc). Groups of 15 kids between 4-7 years old.
-- Annual programming, parent feedback, motor skills evaluation, open-doors events organization
+- Extracurricular educator in several sport activities (Football, Basketball, etc) for groups of 15 kids between 4-7 years old.
+- Annual programming, parent feedback, motor skills evaluation, open-doors events organization.
 
 
 ### Assistant Manager - Triathlon Event
@@ -301,8 +302,8 @@ Madrid area, España
 
 2012
 
-- Was part of the organization team during the previous days of the event and assisted the track section coordination on the event day.  
-- Track assembly, volunteers coordination, athletes support (+600 participants)
+Was part of the organization team during the previous days of the event and assisted the track section coordination on the event day.  
+- Track assembly, volunteers coordination, athletes support (+600 participants).
 
 
 
