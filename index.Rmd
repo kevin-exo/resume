@@ -153,7 +153,7 @@ N/A
 <!-- OCT 18 - FEB 19 -->
 
 
-- Intra-session and Inter-day comparision of EMVC.
+- Intra-session and Inter-day comparison of EMVC.
 
 <!-- ::: concise -->
 - Use of Isomed® dynamometer, Myon320 mobile® EMG & proEMG®
@@ -172,7 +172,7 @@ N/A
 
 \pagebreak
 
-### Personalised approach to exercise, diet & medical treatment 
+### Personalized approach to exercise, diet & medical treatment 
 
 Exercise biology specialization | Group project
 
@@ -234,9 +234,9 @@ Alfaz del Pi, Alicante, Spain
 
 2017
 
-<!-- Joined the sport department of my hometown after finishing my bachelor’s degree to get experience at the management level of a public institution that hosts many events and has a year-round sport offer for cold-weather based professional teams to conduct pre-season trainings and competition preparation. -->
+<!-- Joined the sport department of my hometown after finishing my bachelor’s degree to get experience at the management level of a public institution that hosts many events and has a year-round sport offer for cold-weather based professional teams to conduct pre-season training and competition preparation. -->
 - Coordinate, organize and supervise sport events.
-- Assist international teams during their trainning camps, schedule & prepare the facilities.
+- Assist international teams during their training camps, schedule & prepare the facilities.
 
 ### S&C Intern -> Coordinator of Youth Teams
 
@@ -302,7 +302,7 @@ Madrid area, España
 
 2012
 
-Was part of the organization team during the previous days of the event and assisted the track section coordination on the event day.  
+- Was part of the organization team during the previous days of the event and assisted the track section coordination on the event day.  
 - Track assembly, volunteers coordination, athletes support (+600 participants).
 
 
