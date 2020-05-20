@@ -92,7 +92,7 @@ Technical University of Munich
 
 Munich, Germany
 
-Currently (Exp. SEP '20)
+SEP '20 (Exp.)
 
 Focus in Biomechanics & Exercise biology.
 - Thesis: "The use of lower limb exoskeleton in patients with myopathies"
@@ -105,6 +105,7 @@ Madrid, Spain
 
 2017
 
+Focus in Sports Training
 - Thesis: ["Perfil Antropométrico Y Fisiológico Del Jugador De Fútbol Americano"](http://doi.org/dqt3) *Excellent with distinction* grade
 
 
@@ -117,7 +118,7 @@ Institut de Myologie, Pitié-Salpêtrière Hospital
 
 Paris, France
 
-JUN 19 - Currently
+2019 - Currently
 
 - Evaluate the safety, usability, and acute efficiency of a powered knee-hip dermoskeleton in patients with neuromuscular disorders.
 - Elaborate recommendations regarding usability criteria for safe and efficient use the device in patients with neuromuscular disorders (e.g. type and severity of patient’s functional deficits).
@@ -225,6 +226,33 @@ N/A
 Sport Experience {data-icon=football-ball}
 --------------------------------------------------------------------------------
 
+### City Hall Sports Intern
+
+Sports Department
+
+Alfaz del Pi, Alicante, Spain
+
+2017
+
+<!-- Joined the sport department of my hometown after finishing my bachelor’s degree to get experience at the management level of a public institution that hosts many events and has a year-round sport offer for cold-weather based professional teams to conduct pre-season trainings and competition preparation. -->
+- Coordinate, organize and supervise sport events.
+- Assist international teams during their trainning camps, schedule & prepare the facilities.
+
+### S&C Intern -> Coordinator of Youth Teams
+
+Barbera Rookies  
+
+Barcelona area, Spain  
+
+2014 - 2016
+  
+- Off. Coordinator and Strength & Conditioning coach of 1st Team. Conduct training sessions, practice design, game day play-caller  
+- Head Coach of U17 Team. Fundamentals training, game day planing, meeting with parents, players recruiting  
+- Responsible for coordination of 3 Sections, 6 Teams, 13 Coaches y +60 Players.
+
+<!-- *Got promoted after doing an Internship as a Coach* -->
+
+
 ### Student Athlete
 
 Pumas UNAM  
@@ -235,68 +263,82 @@ Mexico City, Mexico
 
 - Played as RB & WR at the 1st Div. & won 2 Natl. Championships.
 
+::: aside
+**REFERENCES**
 
-### S&C Intern -> Coordinator of Youth Teams
+**Florian Paternoster, PhD**  
+Assist. Researcher at Biomechanics Department, TUM, Munich, Germany  
+<i class="fa fa-envelope"></i> florian.paternoster@tum.de  
 
-Barbera Rookies  
-
-Barcelona area, Spain  
-
-Dec 2014 – Jun 2016  
-
-As intern:  
-- Off. Coordinator and Strength & Conditioning coach of 1st Team. Conduct training sessions, practice design, game day play-caller  
-- Head Coach of U17 Team. Fundamentals training, game day planing, meeting with parents, players recruiting  
-As Coordinator of Youth Teams:  
-- Responsible for coordination of 3 Sections, 6 Teams, 13 Coaches y +60 Players.
-
-*Got promoted after doing an Internship as a Coach*
-
-<!-- Alfaz del Pi (Alicante) - SPAIN -->
-<!-- Joined the sport department of my hometown after finishing my bachelor’s degree -->
-<!-- to get experience at the management level of a public institution that hosts many -->
-<!-- events and has a year-round sport offer for cold-weather based professional -->
-<!-- teams to conduct pre-season trainings and competition preparation. -->
-<!-- - Coordinate and supervise the organization of local events: races, school championships, regional leagues, etc. -->
-<!-- - Assist international teams during their stay and schedule the facilities allocation. -->
-
-References {data-icon=file}
---------------------------------------------------------------------------------
-
-### Florian Paternoster, PhD
-
-N/A
-
-Munich, GERMANY
-
-N/A
-
-- Assist. Researcher -  Biomechanics Department, TUM  
-<i class="fa fa-envelope"></i> florian.paternoster@tum.de
-
-### Damien Bachasson, PhD, PT
-
-N/A
-
-Paris, FRANCE
-
-N/A
-
-- Research Scientist - Neuromuscular Physiology Laboratory, INSTITUT DE MYOLOGIE  
+**Damien Bachasson, PhD, PT**  
+Research Scientist at Neuromusc. Physiology Lab, Institut de Myologie, Paris, France  
 <i class="fa fa-envelope"></i> d.bachasson@institut-myologie.org
 
-### Prof. Martin Daumer, PhD
+**Prof. Martin Daumer, PhD**  
+Ceo at Trium Analysis Online 
+<i class="fa fa-envelope"></i> daumer@slcmsr.org  
+Hon. Professor at Faculty of Electrical & Computer Eng., TUM
 
-N/A
+:::
 
-Munich, GERMANY
+### Physical Education Teacher
 
-N/A
+Alventus - Plácido Domingo Primary School
 
-- Honorary Professor - TUM  
-- CEO - Trium Analysis Online GmbH   
-- Director/Ex. Board - Sylvia Lawry Centre for Multiple Sclerosis Research, The Human Motion Institute  
-<i class="fa fa-envelope"></i> daumer@slcmsr.org
+Madrid, Spain
+
+2011 - 2014
+
+- Extracurricular educator for several sport activities (Football, Basketball, etc). Groups of 15 kids between 4-7 years old.
+- Annual programming, parent feedback, motor skills evaluation, open-doors events organization
+
+
+### Assistant Manager - Triathlon Event
+
+Ecotrimad
+
+Madrid area, España
+
+2012
+
+- Was part of the organization team during the previous days of the event and assisted the track section coordination on the event day.  
+- Track assembly, volunteers coordination, athletes support (+600 participants)
+
+
+
+<!-- References {data-icon=file} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Florian Paternoster, PhD -->
+
+<!-- Biomechanics Department, TUM -->
+
+<!-- Munich, Germany   -->
+
+<!-- N/A -->
+
+<!-- - Assist. Researcher   <i class="fa fa-envelope"></i> florian.paternoster@tum.de   -->
+
+<!-- ### Damien Bachasson, PhD, PT -->
+
+<!-- Neuromuscular Physiology Lab, Institut de Myologie -->
+
+<!-- Paris, France -->
+
+<!-- N/A -->
+
+<!-- - Research Scientist   <i class="fa fa-envelope"></i> d.bachasson@institut-myologie.org -->
+
+<!-- ### Prof. Martin Daumer, PhD -->
+
+<!-- Trium Analysis Online GmbH & TUM -->
+
+<!-- Munich, Germany -->
+
+<!-- N/A -->
+
+<!-- - Director   <i class="fa fa-envelope"></i> daumer@slcmsr.org -->
+<!-- - Honorary Professor - Faculty of Electrical & Computer Engineering -->
 
 
 Disclaimer {#disclaimer}
