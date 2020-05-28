@@ -30,14 +30,12 @@ Skills {#skills}
 
 **Languages**  
 
-*Native / Fluent:*  
+*Native / Proficient:*  
 - Spanish, Catalan  
 - English (TOEFL 105)  
   
-*Towards fluency:*  
+*Fluent:*  
 - German, French  
-  
-  
   
   
 **Data Analysis & Programming**  
@@ -73,10 +71,10 @@ Main
 Kevin Gramage {#title}
 --------------------------------------------------------------------------------
 
-  
+
 <!-- ### Searching for a position in Biomechanics   -->
 <!-- & Human Movement Analysis -->
-<!-- ### Currently searching for a PhD student position -->
+### Sport & exercise science researcher with a focus on human movement analysis currently searching for a PhD position.
 
 <!-- At the moment: MSc. Thesis at Institut de Myologie: “The use of lower limb exoskeleton in patients with myopathies” -->
 
@@ -223,7 +221,7 @@ N/A
 - “Effects of Post-Activation Potentiation (PAP) & fatigue on CMJ”
 - “Neuromechanical adaptation induced by elastic surface jumping”
 
-Sport Experience {data-icon=football-ball}
+Select Work &  Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### City Hall Sports Intern
@@ -253,15 +251,15 @@ Barcelona area, Spain
 <!-- *Got promoted after doing an Internship as a Coach* -->
 
 
-### Student Athlete
+### Sales Assistant
 
-Pumas UNAM  
+Nike Inc., The Swatch Group, Jack&Jones
 
-Mexico City, Mexico  
+Barcelona, Spain
 
-2013 - 2015  
+2014 - 2016
 
-- Played as RB & WR at the 1st Div. & won 2 Natl. Championships.
+- Customer care & claims management, brand marketing, product presentation, financial accounting, etc.
 
 ::: aside
 <font size="3">**REFERENCES**</font>
@@ -281,6 +279,16 @@ Neuromuscular Physiology Lab, Institut de Myologie
 *CEO* at Trium Analysis Online  
 <font size="1"><i class="fa fa-envelope"></i> daumer@slcmsr.org</font>  
 :::
+
+### Student Athlete
+
+Pumas UNAM  
+
+Mexico City, Mexico  
+
+2013 - 2015  
+
+- Played as RB & WR at the 1st Div. & won 2 Natl. Championships.
 
 ### Physical Education Teacher
 
